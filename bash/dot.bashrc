@@ -1,2 +1,2 @@
-alias ll='ls -laF'
+alias ll='ls -laF --time-style=long-iso'
 
