@@ -1,0 +1,15 @@
+[alias]
+    st = status
+    co = checkout
+    graph = log --graph --date-order --all --pretty=format:'%h %Cred%d %Cgreen%ad %Cblue%an %Creset%s' --date=iso
+    lg    = log --graph                    --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+    lga   = log --graph --all              --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+[user]
+    name = kayama0fa
+    email = ka.yama0fa@gmail.com
+[core]
+    exludesfile = /home/k-yamamoto/.gitignore_global
+[color]
+    ui = true
+[pull]
+    rebase = true
