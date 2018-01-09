@@ -15,3 +15,4 @@ brew 'ghc'
 brew 'cabal-install'
 # cabal update
 brew 'coreutils'
+brew 'global', args: ["with-exuberant-ctags", "with-pygments"]
