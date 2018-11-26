@@ -34,6 +34,8 @@ brew "perl"
 brew "cpanm"
 brew "python"
 brew "node"
+brew "go"
+brew "rust"
 
 brew "coreutils" # GNU File, Shell, and Text utilities
 brew "zsh"
