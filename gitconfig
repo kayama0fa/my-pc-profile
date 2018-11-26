@@ -7,8 +7,6 @@
 [user]
     name = kayama0fa
     email = ka.yama0fa@gmail.com
-[core]
-    exludesfile = /home/k-yamamoto/.gitignore_global
 [color]
     ui = true
 [pull]
