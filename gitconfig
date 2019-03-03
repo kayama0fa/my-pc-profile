@@ -1,4 +1,5 @@
 [alias]
+    b  = branch
     st = status
     co = checkout
     graph = log --graph --date-order --all --pretty=format:'%h %Cred%d %Cgreen%ad %Cblue%an %Creset%s' --date=iso

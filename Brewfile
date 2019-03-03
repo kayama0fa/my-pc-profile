@@ -1,10 +1,10 @@
 cask_args appdir: '/Applications'
-cask "alfred"
+#cask "alfred"
 cask "google-chrome"
 cask "drivedx"
 cask "dropbox"
 cask "steam"
-cask "iterm2"
+#cask "iterm2"
 cask "evernote"
 cask "vlc"
 
@@ -32,11 +32,11 @@ brew "cabal-install" # Command-line interface for Cabal and Hackage
 
 brew "perl"
 brew "cpanm"
-brew "python"
+brew "python@3"
 brew "node"
 brew "go"
 brew "rust"
 
 brew "coreutils" # GNU File, Shell, and Text utilities
-brew "zsh"
+#brew "zsh"
 brew "bash"
